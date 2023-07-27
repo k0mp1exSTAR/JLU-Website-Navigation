@@ -5,3 +5,4 @@
 部分网站仅限校内访问或需使用WEBVPN系统。  
 https://github.com/k0mp1exSTAR/JLU-Website-Navigation    
 https://gitee.com/k0mp1exSTAR/JLU-Website-Navigation
+如果你是第一次使用Github，在Code中可以找到PDF文件，或者从Release中下载
