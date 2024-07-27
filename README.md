@@ -6,7 +6,7 @@
 本文档至今为完全公益性质，完全免费且不涉及任何潜在的收费行为。本文档鼓励任何使用者将其传播到需要的人手中。  
 
 如果你是第一次使用Github，在*Code*中可以找到PDF文件，或者可以在*Releases*中下载 :smile:   
-如果仍找不到在哪里下载，使用这个链接：https://github.com/k0mp1exSTAR/JLU-Website-Navigation/releases  选择最新版本的PDF文件（Std版本）下载即可（zip和tar.gz文件不用管）
+如果仍找不到在哪里下载，使用这个链接：https://github.com/k0mp1exSTAR/JLU-Website-Navigation/releases  选择最新版本的PDF文件下载即可（zip和tar.gz文件不用管）
   
 ## 文档发布页面：
 
