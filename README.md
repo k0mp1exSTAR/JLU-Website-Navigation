@@ -14,6 +14,6 @@ https://github.com/k0mp1exSTAR/JLU-Website-Navigation
 https://gitee.com/k0mp1exSTAR/JLU-Website-Navigation      
   
 ## 校验信息：
-### v1.3.0 
-MD5 327bd54398df1e7a5982d5cfae43208f  
-SHA256 234b04293cfc00ae0f80f829d1e2fa2eea0909a637b120efce5419e58a52d8c5
+### v1.3.1
+MD5 3cd78387f24e2bce1657595c00da6a81
+SHA256 0d01e8c3d320cf15eb4b5d23bc25bfa875e920fd03b4fa2e5b8ab90e8b91a44a
