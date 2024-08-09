@@ -15,5 +15,5 @@ https://gitee.com/k0mp1exSTAR/JLU-Website-Navigation
   
 ## 校验信息：
 ### v1.3.1
-MD5 3cd78387f24e2bce1657595c00da6a81
+MD5 3cd78387f24e2bce1657595c00da6a81  
 SHA256 0d01e8c3d320cf15eb4b5d23bc25bfa875e920fd03b4fa2e5b8ab90e8b91a44a
